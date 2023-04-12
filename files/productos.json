@@ -1,0 +1,35 @@
+[
+	{
+		"titulo": "Fideos Molto",
+		"descripcion": "dadwedw",
+		"precio": 400,
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/209822/Fideo-Molto-Guiseros-Fideos-Guisero-Molto-500-Gr-1-46224.jpg?v=636383732923400000",
+		"code": 3150,
+		"stock": 263,
+		"status": true,
+		"category": "comida",
+		"id": 1
+	},
+	{
+		"titulo": "Papas",
+		"descripcion": "dadwedw",
+		"precio": 200,
+		"thumbnail": "https://www.shutterstock.com/image-photo/potatoes-market-260nw-769793572.jpg",
+		"code": 6811,
+		"stock": 651,
+		"status": true,
+		"category": "comida",
+		"id": 2
+	},
+	{
+		"titulo": "Lechuga",
+		"descripcion": "dadwedw",
+		"precio": 450,
+		"thumbnail": "https://as2.ftcdn.net/v2/jpg/01/00/90/87/1000_F_100908731_zfwGI9VbHURUUJ1vQ6unTxamkjzYNBDD.jpg",
+		"code": 1523,
+		"stock": 984,
+		"status": true,
+		"category": "vegetales",
+		"id": 3
+	}
+]
